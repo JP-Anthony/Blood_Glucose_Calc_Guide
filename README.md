@@ -1,7 +1,7 @@
 This site contains two excel files;  
 mgdl-Blood_Glucose_and_Insulin_Calc_Guide.xlsx (for US users)  
 mmoll-Blood_Glucose_and_Insulin_Calc_Guide_mmoll.xlsx. (for UK users)   
-To open, click on the file you want above the README.md then on the following page select Download. This will download an excel spreadsheet onto your computer which you can print, edit, or make changes to. 
+To open, click on the file you want above then on the following page select Download. This will download an excel spreadsheet onto your computer which you can print, edit, or make changes to. 
 
 
 
