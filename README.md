@@ -9,7 +9,7 @@ To open, click on the file you want above then on the following page select Down
 # Blood Glucose Calc Guide
 ---
 
-This is a table for blood sugar and insulin control designed for people managing Type 1 diabetes. I've found that often when you have a low, or need to come down, most diabetics rely on basic math to determine how much to eat, or how much insulin to take. I don't like relying on simple math when a wrong answer could literally kill someone. So, I put together this spreadsheet as a way to skip the math step and jump right to the appropriate treatment.
+This is a table for blood sugar and insulin control designed for people managing Type 1 diabetes. I've found that often when you have a low, or need to come down, most diabetics rely on basic math to determine how much to eat, or how much insulin to take. I don't like relying on simple math when the stakes are so high so I put together this spreadsheet as a way to skip the math step and jump right to the appropriate treatment.
 
 That being the case, it's a good idea to familiarize yourself with these spreadsheets before you need them and determine if they're right for you. 
 
