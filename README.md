@@ -14,7 +14,6 @@ This is a table for blood sugar and insulin control designed for people managing
 That being the case, it's a good idea to familiarize yourself with these spreadsheets before you need them and determine if they're right for you. 
 
 ## This is not intended to be medical advice,
-
 this is just a way to simplify the math. These formulas are based on the formulas in the book, [Diabeties Solution](http://www.diabetes-book.com/) by Dr. Bernstein.
 
 
